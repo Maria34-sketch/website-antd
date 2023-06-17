@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/demo/react/antdesign/tech/static/css/main.14152538.css",
+    "main.js": "/demo/react/antdesign/tech/static/js/main.92799755.js",
+    "static/js/787.c27836d4.chunk.js": "/demo/react/antdesign/tech/static/js/787.c27836d4.chunk.js",
+    "static/media/bg-hero.jpg": "/demo/react/antdesign/tech/static/media/bg-hero.2e6d5a35d22cda1a0dd8.jpg",
+    "static/media/bg-works.jpg": "/demo/react/antdesign/tech/static/media/bg-works.abd66d06d525eadfd24a.jpg",
+    "static/media/easy-customise.jpg": "/demo/react/antdesign/tech/static/media/easy-customise.d4fe22138e1668906aab.jpg",
+    "static/media/great-support.jpg": "/demo/react/antdesign/tech/static/media/great-support.13341f4e93333e45ebbe.jpg",
+    "static/media/advanced-option.jpg": "/demo/react/antdesign/tech/static/media/advanced-option.84c7d0693123632c9035.jpg",
+    "static/media/modern-design.jpg": "/demo/react/antdesign/tech/static/media/modern-design.e2114f5b8abbe8b1fa8b.jpg",
+    "static/media/clean-design.jpg": "/demo/react/antdesign/tech/static/media/clean-design.728069dab437b67d9da8.jpg",
+    "static/media/unlimited-features.jpg": "/demo/react/antdesign/tech/static/media/unlimited-features.a0b8acf77e6b57772078.jpg",
+    "index.html": "/demo/react/antdesign/tech/index.html",
+    "main.14152538.css.map": "/demo/react/antdesign/tech/static/css/main.14152538.css.map",
+    "main.92799755.js.map": "/demo/react/antdesign/tech/static/js/main.92799755.js.map",
+    "787.c27836d4.chunk.js.map": "/demo/react/antdesign/tech/static/js/787.c27836d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14152538.css",
+    "static/js/main.92799755.js"
+  ]
+}
